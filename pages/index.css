@@ -1,0 +1,127 @@
+@import url(../blocks/header.css);
+@import url(../blocks/page.css);
+@import url(../blocks/fonts.css);
+@import url(../vendor/normalize.css);
+@import url(../vendor/inter.css);
+
+/*
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: auto;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+@font-face {
+  font-family: "InterVariable";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("InterVariable.woff2") format("woff2");
+}
+
+.header {
+  background-color: #2a2c2f;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header__logo {
+  width: 15.87%;
+  height: 15.87%;
+  margin-top: 34px;
+}
+
+.header__title {
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 100px;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 45%;
+  height: 12.5%;
+  margin-top: 91.06px;
+  margin-bottom: 0;
+}
+
+.header__subtitle {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 36px;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 45%;
+  height: 4.5%;
+  margin-top: 32px;
+  margin-bottom: 0;
+}
+
+.header__cover {
+  width: 61.5%;
+  height: 38.43%;
+  margin-top: 64px;
+  margin-bottom: 0;
+}
+
+.header__cover-description {
+  font-family: "Inter";
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  letter-spacing: 0%;
+  width: 51.87%;
+  height: 10.87%;
+  margin-top: 92px;
+  margin-left: -125px;
+  margin-bottom: 0;
+}
+
+.header__quote {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  letter-spacing: 0%;
+  width: 46.12%;
+  height: 8.47%;
+  margin-top: 39.98px;
+  margin-left: -205px;
+  margin-bottom: 0;
+}
+
+.header__quote-author {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  letter-spacing: 0%;
+  text-align: right;
+  margin-top: 10px;
+  margin-bottom: 0;
+  width: 45.75%;
+  height: 2.11%;
+}
+
+.header__text {
+  font-family: "Inter";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  letter-spacing: 0%;
+  width: 45.12%;
+  height: 11.34%;
+  margin-top: 31.99px;
+  margin-bottom: 0;
+  margin-left: -205px;
+}
+
+.header__author {
+  margin-top: 92px;
+}
+*/
