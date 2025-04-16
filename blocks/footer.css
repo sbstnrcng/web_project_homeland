@@ -1,0 +1,16 @@
+.footer__author {
+  margin-top: 92px;
+  align-self: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .footer__author {
+    margin-top: 88px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer__author {
+    margin-top: 64px;
+  }
+}
