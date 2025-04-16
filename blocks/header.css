@@ -1,6 +1,4 @@
 .header {
-  background-color: #2a2c2f;
-  color: white;
   display: flex;
   flex-direction: column;
 }
@@ -45,7 +43,7 @@
   margin-bottom: 0;
 }
 
-.header__cover-description {
+.content__cover-description {
   font-family: "Inter";
   font-weight: 900;
   font-size: 54px;
@@ -57,7 +55,7 @@
   margin-bottom: 0;
 }
 
-.header__quote {
+.content__quote {
   font-family: "Inter";
   font-weight: 400;
   font-size: 24px;
@@ -70,7 +68,7 @@
   margin-bottom: 0;
 }
 
-.header__quote-author {
+.content__quote-author {
   font-family: "Inter";
   font-weight: 400;
   font-size: 24px;
@@ -82,7 +80,7 @@
   max-width: 732px;
 }
 
-.header__text {
+.description__text {
   font-family: "Inter";
   font-weight: 400;
   font-size: 16px;
@@ -95,7 +93,7 @@
   margin-bottom: 0;
 }
 
-.header__author {
+.footer__author {
   margin-top: 92px;
   align-self: center;
 }
@@ -121,13 +119,13 @@
     margin-top: 25px;
   }
 
-  .header__cover {
+  .content__cover {
     max-width: 768px;
     height: 480px;
     margin-top: 30px;
   }
 
-  .header__cover-description {
+  .content__cover-description {
     font-size: 45px;
     line-height: 49px;
     max-width: 707px;
@@ -135,23 +133,23 @@
     margin-left: 24px;
   }
 
-  .header__quote {
+  .content__quote {
     max-width: 720px;
     margin-top: 50px;
     margin-left: 24px;
   }
 
-  .header__quote-author {
+  .content__quote-author {
     margin-left: 550px;
     max-width: 720px;
   }
 
-  .header__text {
+  .description__text {
     max-width: 720px;
     margin-left: 24px;
   }
 
-  .header__author {
+  .footer__author {
     margin-top: 88px;
   }
 }
@@ -179,13 +177,13 @@
     line-height: 20px;
   }
 
-  .header__cover {
+  .content__cover {
     max-width: 320px;
     height: 200px;
     margin-top: 40px;
   }
 
-  .header__cover-description {
+  .content__cover-description {
     font-size: 32px;
     line-height: 35px;
     max-width: 288px;
@@ -193,25 +191,25 @@
     margin-left: 16px;
   }
 
-  .header__quote {
+  .content__quote {
     max-width: 720px;
     line-height: 30px;
     margin-top: 40px;
     margin-left: 16px;
   }
 
-  .header__quote-author {
+  .content__quote-author {
     margin-left: 200px;
     max-width: 288px;
   }
 
-  .header__text {
+  .description__text {
     max-width: 288px;
     height: 442px;
     margin-left: 16px;
   }
 
-  .header__author {
+  .footer__author {
     margin-top: 64px;
   }
 }
