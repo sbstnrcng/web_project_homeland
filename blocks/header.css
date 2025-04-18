@@ -36,13 +36,6 @@
   margin-bottom: 0;
 }
 
-.header__cover {
-  max-width: 984px;
-  align-self: center;
-  margin-top: 64px;
-  margin-bottom: 0;
-}
-
 @media screen and (max-width: 1024px) {
   .header__logo {
     width: 20%;
@@ -60,7 +53,6 @@
 
   .header__subtitle {
     max-width: 720px;
-    height: 72px;
     margin-top: 25px;
   }
 }
@@ -76,13 +68,11 @@
     font-size: 40px;
     line-height: 44px;
     max-width: 228px;
-    height: 88px;
     margin-top: 50px;
   }
 
   .header__subtitle {
     max-width: 288px;
-    height: 40px;
     margin-top: 16px;
     font-size: 16px;
     line-height: 20px;
